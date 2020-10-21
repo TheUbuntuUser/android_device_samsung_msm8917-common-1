@@ -108,26 +108,26 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Snap
 
-# PRODUCT_COPY_FILES += \
-#    $(LOCAL_PATH)/camera/A13QL_s5k3l6xx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/A13QL_s5k3l6xx_module_info.xml \
-#    $(LOCAL_PATH)/camera/B13QL_s5k3l6xx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/B13QL_s5k3l6xx_module_info.xml \
-#    $(LOCAL_PATH)/camera/P08QL_s5k4h5yc_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/P08QL_s5k4h5yc_module_info.xml \
-#    $(LOCAL_PATH)/camera/Q05QL_s5k5e9yx_front_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Q05QL_s5k5e9yx_front_module_info.xml \
-#    $(LOCAL_PATH)/camera/Q08QL_s5k4h5yc_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Q08QL_s5k4h5yc_module_info.xml \
-#    $(LOCAL_PATH)/camera/R05QL_s5k5e9yx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/R05QL_s5k5e9yx_module_info.xml \
-#    $(LOCAL_PATH)/camera/s5k2p6sx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2p6sx_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k2x7sp_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2x7sp_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k3l6xx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l6xx_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k3p8sp_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8sp_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k4h5yc_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h5yc_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k4hayx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4hayx_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k5e3yx_f2_2_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e3yx_f2_2_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k5e9yx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e9yx_chromatix.xml \
-#    $(LOCAL_PATH)/camera/s5k5e9yx_q05ql_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e9yx_q05ql_chromatix.xml \
-#    $(LOCAL_PATH)/camera/sr259_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr259_chromatix.xml \
-#    $(LOCAL_PATH)/camera/sr544_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr544_chromatix.xml \
-#    $(LOCAL_PATH)/camera/sr556_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr556_chromatix.xml \
-#    $(LOCAL_PATH)/camera/Z08QL_s5k4hayx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Z08QL_s5k4hayx_module_info.xml
+ PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/camera/A13QL_s5k3l6xx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/A13QL_s5k3l6xx_module_info.xml \
+    $(LOCAL_PATH)/camera/B13QL_s5k3l6xx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/B13QL_s5k3l6xx_module_info.xml \
+    $(LOCAL_PATH)/camera/P08QL_s5k4h5yc_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/P08QL_s5k4h5yc_module_info.xml \
+    $(LOCAL_PATH)/camera/Q05QL_s5k5e9yx_front_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Q05QL_s5k5e9yx_front_module_info.xml \
+    $(LOCAL_PATH)/camera/Q08QL_s5k4h5yc_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Q08QL_s5k4h5yc_module_info.xml \
+    $(LOCAL_PATH)/camera/R05QL_s5k5e9yx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/R05QL_s5k5e9yx_module_info.xml \
+    $(LOCAL_PATH)/camera/s5k2p6sx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2p6sx_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k2x7sp_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2x7sp_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k3l6xx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l6xx_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k3p8sp_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8sp_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k4h5yc_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h5yc_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k4hayx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4hayx_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k5e3yx_f2_2_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e3yx_f2_2_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k5e9yx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e9yx_chromatix.xml \
+    $(LOCAL_PATH)/camera/s5k5e9yx_q05ql_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e9yx_q05ql_chromatix.xml \
+    $(LOCAL_PATH)/camera/sr259_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr259_chromatix.xml \
+    $(LOCAL_PATH)/camera/sr544_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr544_chromatix.xml \
+    $(LOCAL_PATH)/camera/sr556_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr556_chromatix.xml \
+    $(LOCAL_PATH)/camera/Z08QL_s5k4hayx_module_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/Z08QL_s5k4hayx_module_info.xml
 
 PRODUCT_PACKAGES += \
     camera.device@1.0-impl \
