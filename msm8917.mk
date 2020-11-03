@@ -106,6 +106,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+    libshim_camera \
     Snap
 
 # PRODUCT_COPY_FILES += \

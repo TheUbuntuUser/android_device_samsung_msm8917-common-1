@@ -166,6 +166,10 @@ ENABLE_VENDOR_RIL_SERVICE := true
 # Root
 BOARD_ROOT_EXTRA_FOLDERS := config omr efs
 
+# Shims
+TARGET_LD_SHIM_LIBS := \
+    /system/vendor/lib/hw/camera.msm8937.so|libshim_camera.so
+
 # Recovery
 TARGET_RECOVERY_FSTAB := $(COMMON_PATH)/rootdir/etc/fstab.qcom
 
