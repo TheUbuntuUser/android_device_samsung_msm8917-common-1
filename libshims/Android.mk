@@ -21,5 +21,6 @@ LOCAL_SRC_FILES := libshim_camera.c
 
 LOCAL_MODULE := libshim_camera
 LOCAL_MODULE_TAGS := optional
+LOCAL_VENDOR_MODULE := true
 
 include $(BUILD_SHARED_LIBRARY)
