@@ -13,3 +13,4 @@ void _ZN7android16CameraParameters38KEY_SUPPORTED_EFFECT_PREVIEW_FPS_RANGEE() {}
 void _ZN7android16CameraParameters7KEY_OISE() {}
 void _ZN7android16CameraParameters7OIS_OFFE() {}
 void _ZN7android5FenceD1Ev() {}
+void _ZNK7android16CameraParameters8getInt64EPKc() {}
