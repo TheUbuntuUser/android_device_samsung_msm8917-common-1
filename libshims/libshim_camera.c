@@ -10,3 +10,4 @@ void _ZN7android16CameraParameters17KEY_OIS_SUPPORTEDE() {}
 void _ZN7android16CameraParameters23KEY_SUPPORTED_OIS_MODESE() {}
 const char _ZN7android16CameraParameters26PIXEL_FORMAT_YUV420SP_NV21E[] = "nv21";
 void _ZN7android16CameraParameters38KEY_SUPPORTED_EFFECT_PREVIEW_FPS_RANGEE() {}
+void _ZN7android16CameraParameters7KEY_OISE() {}
