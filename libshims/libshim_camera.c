@@ -7,4 +7,4 @@ void _ZN7android16CameraParameters13OIS_CENTERINGE() {}
 void _ZN7android16CameraParameters13OIS_ON_SINE_XE() {}
 void _ZN7android16CameraParameters13OIS_ON_SINE_YE() {}
 void _ZN7android16CameraParameters17KEY_OIS_SUPPORTEDE() {}
-
+void _ZN7android16CameraParameters23KEY_SUPPORTED_OIS_MODESE() {}
