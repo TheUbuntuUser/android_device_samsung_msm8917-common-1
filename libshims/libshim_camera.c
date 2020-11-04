@@ -14,3 +14,4 @@ void _ZN7android16CameraParameters7KEY_OISE() {}
 void _ZN7android16CameraParameters7OIS_OFFE() {}
 void _ZN7android5FenceD1Ev() {}
 void _ZNK7android16CameraParameters8getInt64EPKc() {}
+void _ZN7android20DisplayEventReceiverC1Ev() {}
